@@ -1,0 +1,13 @@
+#Matrix {
+  border-spacing: 0;
+  td {
+    height: 8px;
+    width: 256px;
+    border-right: 1px solid #000;
+  }
+  .Hour {
+    td {
+      border-bottom: 1px solid #000;
+    }
+  }
+}

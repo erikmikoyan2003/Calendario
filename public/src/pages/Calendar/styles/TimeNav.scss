@@ -1,0 +1,17 @@
+#TimeNav {
+  display: flex;
+  justify-content: center;
+
+  .point {
+    padding: 4px;
+    margin: 0 8px;
+
+    input {
+      display: none;
+    }
+  }
+
+  #ResetToday {
+    margin-right: 16px;
+  }
+}
